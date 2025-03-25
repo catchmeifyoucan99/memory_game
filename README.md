@@ -12,14 +12,22 @@ This game was designed to test and improve memory skills. It included features s
 
 🎨 Simple UI and animations – Smooth transitions for an engaging experience.
 
+🏆 Ranking system – Players were ranked based on their completion time and number of moves, encouraging competition.
+
+🖼 Custom graphics with Photoshop – I used Adobe Photoshop ("Ps") to design UI elements, card images, and animations, making the visuals more attractive and professional.
+
 💡 What I Learned
-Game logic and event handling: Implementing mouse events and game state management.
-
-Working with Java and Swing: Designing UI components and handling game flow.
-
-Hint system implementation: Managing temporary card reveals while maintaining game balance.
-
-Debugging and optimizing performance: Improving gameplay mechanics and responsiveness.
+✅ Game logic and event handling: Implementing mouse events and game state management.
+✅ Working with Java and Swing: Designing UI components and managing game flow.
+✅ Hint system implementation: Managing temporary card reveals while keeping the game balanced.
+✅ Ranking system development: Tracking player scores and creating a leaderboard.
+✅ Graphics design with Photoshop: Creating custom game assets, improving visual aesthetics, and optimizing images.
+✅ Debugging and optimizing performance: Improving game responsiveness and UI smoothness.
 
 🎯 Looking Back
-This project was a turning point in my coding journey. It introduced me to game development concepts, making me more interested in UI/UX design and interactive applications. The addition of a hint system made the game more user-friendly and rewarding. Though it was my first attempt, it inspired me to continue exploring game programming in the future.
+This project was a turning point in my coding journey. It introduced me to game development concepts, making me more interested in UI/UX design and interactive applications.
+
+✨ The ranking system added a competitive element, making the game more exciting and motivating players to improve their skills.
+✨ Using Photoshop helped me design a more professional UI, enhance game aesthetics, and make smooth animations.
+
+Though it was my first attempt, it inspired me to continue exploring game programming and design in the future! 🚀🎮
