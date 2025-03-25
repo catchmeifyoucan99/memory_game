@@ -1,7 +1,7 @@
-🚀 My First Experience with Game Development
+🕹 My First Experience with Game Development
 During my Summer Semester in Year 2, I had the opportunity to explore game development for the first time. Using Eclipse IDE and Java, I built a memory game, which challenged players to match pairs of cards within a limited time. To make the game more engaging, I also implemented a hint system to assist players when they got stuck.
 
-🕹 About the Game
+🚀 About the Game
 This game was designed to test and improve memory skills. It included features such as:
 
 🃏 Card matching mechanics – Flip cards and find matching pairs.
